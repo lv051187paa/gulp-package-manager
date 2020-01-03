@@ -1,0 +1,16 @@
+p {
+    cursor: pointer;
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    transition: .9s;
+}
+
+p:hover{
+    color: blue;
+    transition: .9s;
+}
+
+body {
+    background: #ccc;
+}
